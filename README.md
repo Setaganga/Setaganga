@@ -1,6 +1,6 @@
 Hey guys, I'm Joren/Setaganga!
 
-I'm interested in Guitar, Programming, and Linguistics. I like Soulsborne games and Spaceflight Simulator.
+I'm interested in Guitar, Programming, and Linguistics. I like Soulsborne games and Spaceflight Simulator. I'm a B2 Level in Fluency in Spanish
 
 I'm currently learning Python, Javascript, and a wee bit of Front End Development.
 I plan to go to college for a Major in Computer Science and a Minor in Linguistics. If that's not an option, I might go into Aerospace Engineering.
