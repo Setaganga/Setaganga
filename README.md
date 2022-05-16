@@ -12,4 +12,3 @@ I have been programming for about 3 years and I've made a few games for gamemake
 You can contact me via my email at @nicholasjoren@gmail.com or if you wanna access my personal email (you creep), you can get me at @officialfossilmilk@gmail.com.
 
 You can also click here to check out my School Portfolio, showing my education and experiences in HS:
-https://sites.google.com/s.dcsdk12.org/jorennicholasportfolio/
