@@ -4,6 +4,7 @@ I'm interested in Guitar, Programming, and Linguistics. I like Soulsborne games 
 
 My Primary languages I use are Python and Javascript.
 I'm currently learning Ruby and SQL.
+I'm playing around with making a webpage with Django as my framework.
 I'm also currently enrolled in the Harvard CS50x Computer Science course.
 
 I plan to go to college for a Major in Computer Science and a Minor in Linguistics. If that's not an option, I might go into Aerospace Engineering.
