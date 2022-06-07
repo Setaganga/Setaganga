@@ -11,6 +11,6 @@ I also plan to become certified in Back End Development and Scientific Computing
 
 I have been programming for about 3 years and I've made a few games in robloxstudio with Roblox LUA and gamemakerstudio2 with GML Javascript for the Technology Student Association (TSA) extracurricular.
 
-For more information about what I can do, check out my Portfolio Repository!
+For more information about what I can do: check out my Portfolio Repository!
 
 You can contact me via my email at @nicholasjoren@gmail.com
