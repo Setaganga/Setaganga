@@ -1,6 +1,6 @@
 Hello, I'm Joren/Setaganga!
 
-My name is Joren Nicholas. I'm a 15 year old Backend Developer living in the Denver Area.
+I'm a 15 year old Backend Developer living in the Denver Area.
 I like Guitar, Programming, and Linguistics. I like Soulsborne games and Spaceflight Simulator. I'm a B2 Level of Fluency in Spanish and I also do club Sabre Fencing. I have been programming for about 3 years and I've made a few games in robloxstudio with Roblox LUA and gamemakerstudio2 with GML Javascript for the Technology Student Association (TSA) extracurricular.
 
 
