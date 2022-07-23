@@ -7,7 +7,7 @@ Let's get into my programming side!
 
 My Primary languages I use are Python and Javascript, I use these a lot for just small personal programs, but sometimes I work with them on bigger programs and websites with Django. I'm currently learning React and Redux and I'm also currently enrolled in the Harvard CS50x Computer Science course. I also will soon be signing up for Skillreactor, a fullstack real workplace experience program.
 
-For my experience, I have not had a job as of now, but I have done community service, had leadership in the majority of projects in school, and have always had a creative and fun mind to spice up teamwork. 
+For my experience, I have not had a job as of now, but I have done community service, been a leader in the majority of projects in school, and have always had a creative and fun mind to spice up teamwork. 
 
 School has always been something important to me. I've made sure that I'm never turning in things late, being responsible, owning my mistakes, and keeping my grades high.
 
