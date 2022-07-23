@@ -9,6 +9,8 @@ My Primary languages I use are Python and Javascript, I use these a lot for just
 
 For my experience, I have not had a job as of now, but I have done community service, been a leader in the majority of projects in school, and have always had a creative and fun mind to spice up teamwork. 
 
+For a Backend job, I would love to use Python, JS or TypeScript, Java, or any of the 3 C languages. Of course I am open to learning new languages, but these are the ones where I am familiar with the syntax and would be more efficient in working with.
+
 School has always been something important to me. I've made sure that I'm never turning in things late, being responsible, owning my mistakes, and keeping my grades high.
 
 As for my future plans, I plan to go to the Colorado School of Mines in Golden, CO for a Major in Computer Science and a Minor in Linguistics. If that's not an option, I might go into Aerospace Engineering and go to the Air Force Academy, or heck even join the space force on my own, because space is cool.
