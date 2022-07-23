@@ -6,7 +6,7 @@ I like Guitar, Programming, and Linguistics. I like Soulsborne games and Spacefl
 
 Let's get into my programming side!
 
-My Primary languages I use are Python and Javascript, I use these a lot for just personal programs, but sometimes I work with them on like Django or Node (hopefully using a frontend framework soon). I'm currently learning Java and I'm also currently enrolled in the Harvard CS50x Computer Science course. CS50 is great, I love it so much lol.
+My Primary languages I use are Python and Javascript, I use these a lot for just personal programs, but sometimes I work with them on like Django. I'm currently learning React and Redux and I'm also currently enrolled in the Harvard CS50x Computer Science course. I also will soon be signing up for Skillreactor, a fullstack real workplace experience program.
 
 As for my future plans, I plan to go to the Colorado School of Mines in Golden, CO for a Major in Computer Science and a Minor in Linguistics. If that's not an option, I might go into Aerospace Engineering and go to the Air Force Academy, or heck even join the space force on my own, because space is cool.
 
