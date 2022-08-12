@@ -3,9 +3,9 @@ Hello, I'm Joren/Setaganga!
 I'm a 15 year old Backend Developer living in the Denver Area.
 I like Guitar, Programming, and Linguistics. I like Soulsborne games and Spaceflight Simulator. I'm a B2 Level of Fluency in Spanish and I also do club Sabre Fencing. I have been programming for about 3 years, which started off with me using Python as a personal tool, but now I am taking it further and expanding my learning exponentially to turn it into my career.
 
-As stated before, I am aiming for a Backend Job. My expertise is in Python, Javascript, Django, PostgreSQL, and C. Of course I am open to learning new frameworks, libraries, and languages (because frankly it would be fun).
+I am striving to pursue a career in back end development. The languages I have the most experience in are Python, Node.js, django, java, and C.
 
-Currently my focus is to try and integrate postgreSQL with my website via python, which I believe is the psycopg2 library. I am also taking cs50x from harvard and will soon take up projects on skillreactor, which is a fullstack real world experience program, where we use a front end and back end of choice, and use git and other things like a professional work environment would.
+I'm currently taking cs50 and am trying to learn some c++.
 
 As for my future plans, I plan to go to the Colorado School of Mines in Golden, CO for a Major in Computer Science and a Minor in Linguistics. If that's not an option, I might go into Aerospace Engineering and go to the Air Force Academy, or heck even join the space force on my own, because space is cool.
 
